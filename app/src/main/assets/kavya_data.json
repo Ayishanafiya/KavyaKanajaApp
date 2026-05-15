@@ -1,0 +1,894 @@
+{
+  "poems": [
+    {
+      "id": 1,
+      "title": "ಭಾಷೆಯ ಬೆಳಕು",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ನುಡಿಯ ಬೆಳಕು ಮನದಲಿ ಹೊಳೆಯಲಿ\nಕನ್ನಡ ಕಿರಣ ಜಗದಲಿ ಹರಡಲಿ",
+      "bhavartha": "Language becomes a light in the heart, and Kannada spreads pride across the world.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ನುಡಿಯ",
+          "meaning": "Of language or speech",
+          "modernKannada": "ಭಾಷೆಯ",
+          "example": "ನುಡಿಯ ಮೌಲ್ಯವನ್ನು ತಿಳಿಯಬೇಕು."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "ಮಣ್ಣಿನ ಕರೆ",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ಮಣ್ಣಿನ ಕರೆ ಕಿವಿಯಲ್ಲಿ ಮೂಡಿತು\nನಾಡಿನ ನೆನಪು ಹೃದಯಕೆ ಸೇರಿತು",
+      "bhavartha": "The land calls to the listener, reminding them that culture lives inside memory.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ನಾಡಿನ",
+          "meaning": "Of the land or region",
+          "modernKannada": "ನಮ್ಮ ಪ್ರದೇಶದ",
+          "example": "ನಾಡಿನ ಸಂಸ್ಕೃತಿ ನಮ್ಮ ಹೆಮ್ಮೆ."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "ಸಾಹಿತ್ಯ ದೀಪ",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ಕಾವ್ಯದ ದೀಪ ಕತ್ತಲನು ನೀಗಲಿ\nಜ್ಞಾನದ ಹಾದಿ ಮಕ್ಕಳಿಗೆ ತೋರಿ",
+      "bhavartha": "Poetry removes darkness and shows students the path of knowledge.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ಕಾವ್ಯದ",
+          "meaning": "Of poetry",
+          "modernKannada": "ಕವಿತೆಯ",
+          "example": "ಕಾವ್ಯದ ಸೌಂದರ್ಯ ಮನಸ್ಸನ್ನು ಸೆಳೆಯುತ್ತದೆ."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "ಕರುನಾಡ ಹಾದಿ",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ಕರುನಾಡ ಹಾದಿ ಹಸಿರಾಗಿ ನಿಂತಿದೆ\nಕಲೆಯ ಮಾತು ಗಾಳಿಯಲ್ಲಿ ಕೇಳಿದೆ",
+      "bhavartha": "Karnataka is shown as a living path where art and nature speak together.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ಕರುನಾಡ",
+          "meaning": "Karnataka, the beloved land",
+          "modernKannada": "ಕರ್ನಾಟಕ ನಾಡು",
+          "example": "ಕರುನಾಡ ವೈಭವ ಅಪಾರ."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "ಕಾಯಕದ ಗಾನ",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ಕಾಯಕದ ಬೆವರು ಮುತ್ತಾಗಿ ಮಿನುಗಲಿ\nನಿಷ್ಠೆಯ ಫಲವು ಜೀವನಕೆ ಸಿಗಲಿ",
+      "bhavartha": "Honest work becomes precious when it is done with dedication.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ಕಾಯಕದ",
+          "meaning": "Of work or labor",
+          "modernKannada": "ಕೆಲಸದ",
+          "example": "ಕಾಯಕದ ಗೌರವ ದೊಡ್ಡದು."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "ಸತ್ಯದ ದಾರಿ",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ಸತ್ಯದ ದಾರಿ ನಿಧಾನವಾಗಿ ಸಾಗಲಿ\nಮನದ ಧೈರ್ಯ ಹೆಜ್ಜೆಗೆ ಸೇರಲಿ",
+      "bhavartha": "Truth may move slowly, but courage helps every step forward.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ಸತ್ಯದ",
+          "meaning": "Of truth",
+          "modernKannada": "ನಿಜವಾದ",
+          "example": "ಸತ್ಯದ ದಾರಿ ಕಷ್ಟವಾದರೂ ಶ್ರೇಷ್ಠ."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "ಮಲೆನಾಡ ಮಳೆ",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ಮಲೆನಾಡ ಮಳೆ ಮಣ್ಣಿಗೆ ಮುತ್ತಿಡುತೆ\nಹಸಿರು ಕನಸು ಕಣ್ಣಲ್ಲಿ ಅರಳುತೆ",
+      "bhavartha": "Rain in Malenadu awakens green dreams and tenderness for nature.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ಅರಳುತೆ",
+          "meaning": "Blooms or opens",
+          "modernKannada": "ಹೂಬಿಡುತ್ತದೆ",
+          "example": "ವಿದ್ಯೆಯಿಂದ ಮನಸ್ಸು ಅರಳುತೆ."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "ವಚನದ ಸ್ವರ",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ವಚನದ ಸ್ವರ ಒಳಗಿಂದ ಕೇಳಲಿ\nಮಾನವ ಧರ್ಮ ಬದುಕಿಗೆ ಬೆಳೆಯಲಿ",
+      "bhavartha": "The spirit of vachanas teaches human values and moral living.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ವಚನದ",
+          "meaning": "Of vachana poetry",
+          "modernKannada": "ವಚನ ಸಾಹಿತ್ಯದ",
+          "example": "ವಚನದ ಅರ್ಥ ಸರಳವಾದರೂ ಆಳವಾಗಿದೆ."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "ಪಂಪನ ನೆನಪು",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ಪಂಪನ ಪದವು ಗಂಭೀರ ನಾದ\nಇತಿಹಾಸ ಹೇಳುವ ಕಾವ್ಯ ಪ್ರಸಾದ",
+      "bhavartha": "Ancient Kannada poetry is remembered as a dignified voice of history.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ಗಂಭೀರ",
+          "meaning": "Deep, dignified, or serious",
+          "modernKannada": "ಆಳವಾದ",
+          "example": "ಅವರ ಮಾತು ಗಂಭೀರವಾಗಿತ್ತು."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "ರನ್ನನ ರಾಗ",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ರನ್ನನ ರಾಗ ರಣಧೈರ್ಯ ತುಂಬಿದೆ\nಪದದೊಳಗೆ ವೀರತನ ಮಿಂಚಿದೆ",
+      "bhavartha": "Heroic literature inspires bravery through powerful words.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ವೀರತನ",
+          "meaning": "Heroism or bravery",
+          "modernKannada": "ಧೈರ್ಯಶಾಲಿತನ",
+          "example": "ವೀರತನದಿಂದ ನಾಡನ್ನು ಕಾಪಾಡಿದರು."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "ಜ್ಞಾನದ ಬೀಜ",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ಜ್ಞಾನದ ಬೀಜ ಮನದಲಿ ಬಿತ್ತಿರಿ\nಪ್ರಶ್ನೆಯ ಮಳೆಯಿಂದ ಉತ್ತರ ಬೆಳೆಸಿರಿ",
+      "bhavartha": "Curiosity and questions help knowledge grow in the mind.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ಬಿತ್ತಿರಿ",
+          "meaning": "Sow or plant",
+          "modernKannada": "ಬೀಜ ಹಾಕಿರಿ",
+          "example": "ಒಳ್ಳೆಯ ಚಿಂತನೆಗಳನ್ನು ಬಿತ್ತಿರಿ."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "ಗುರುವಿನ ಕಿರಣ",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ಗುರುವಿನ ಕಿರಣ ದಾರಿಯನ್ನು ತೋರುತೆ\nಅಕ್ಷರ ಲೋಕಕ್ಕೆ ಮಕ್ಕಳು ಸೇರುತೆ",
+      "bhavartha": "A teacher guides students into the world of letters and learning.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ಅಕ್ಷರ",
+          "meaning": "Letter or literacy",
+          "modernKannada": "ಬರಹದ ಗುರುತು",
+          "example": "ಅಕ್ಷರ ಕಲಿಕೆ ಜೀವನ ಬದಲಿಸುತ್ತದೆ."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "ತಾಯ್ನುಡಿ",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ತಾಯ್ನುಡಿ ಮಾತು ತಂಪಾಗಿ ತಾಗಲಿ\nಮನೆಯ ನೆನಪು ಮನದಲಿ ಉಳಿಯಲಿ",
+      "bhavartha": "Mother tongue brings comfort because it carries home, memory, and affection.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ತಾಯ್ನುಡಿ",
+          "meaning": "Mother tongue",
+          "modernKannada": "ತಾಯಿ ಭಾಷೆ",
+          "example": "ತಾಯ್ನುಡಿ ನಮ್ಮ ಗುರುತು."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "ಯುವ ಮನಸ್ಸು",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ಯುವ ಮನಸ್ಸು ಕನಸಿನಿಂದ ತುಂಬಲಿ\nಪರಂಪರೆ ಜೊತೆ ಹೊಸತನ ಬೆಳೆಲಿ",
+      "bhavartha": "Youth can honor tradition while creating something new.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ಪರಂಪರೆ",
+          "meaning": "Tradition or heritage",
+          "modernKannada": "ಹಳೆಯ ಮೌಲ್ಯಗಳ ಸರಣಿ",
+          "example": "ಪರಂಪರೆ ನಮ್ಮ ಸಂಸ್ಕೃತಿಯ ಆಧಾರ."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "ಅರಮನೆಯ ಅಕ್ಷರ",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ಹಳೆಯ ಅಕ್ಷರ ಅರಮನೆ ತೆರೆಯಲಿ\nಕಥೆಯ ಖಜಾನೆ ಮಕ್ಕಳಿಗೆ ಸಿಗಲಿ",
+      "bhavartha": "Old literature is imagined as a palace filled with treasure for students.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ಖಜಾನೆ",
+          "meaning": "Treasure",
+          "modernKannada": "ನಿಧಿ",
+          "example": "ಪುಸ್ತಕಗಳು ಜ್ಞಾನದ ಖಜಾನೆ."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "ನದಿಯ ನುಡಿ",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ಕಾವೇರಿ ನದಿ ಕಥೆಯನ್ನು ಹೇಳಿತು\nಭೂಮಿಯ ಪ್ರೀತಿ ಹರಿವಿನಲಿ ಬೆರೆಯಿತು",
+      "bhavartha": "The river speaks of love for land and continuity of culture.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ಹರಿವಿನಲಿ",
+          "meaning": "In the flow",
+          "modernKannada": "ಹರಿಯುವ ನೀರಿನಲ್ಲಿ",
+          "example": "ನದಿಯ ಹರಿವಿನಲಿ ಸಂಗೀತವಿದೆ."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "ಹಂಪಿಯ ಸ್ಮೃತಿ",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ಹಂಪಿಯ ಕಲ್ಲು ಇತಿಹಾಸ ಹಾಡಿತು\nಮೌನದೊಳಗಿಂದ ವೈಭವ ಎದ್ದಿತು",
+      "bhavartha": "Hampi's stones silently preserve the grandeur of history.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ವೈಭವ",
+          "meaning": "Grandeur or glory",
+          "modernKannada": "ಮಹಿಮೆ",
+          "example": "ಹಂಪಿಯ ವೈಭವ ಪ್ರಸಿದ್ಧ."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "ಮೈಸೂರು ಮಧುರ",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ಮೈಸೂರು ಸಿರಿ ಮೃದು ನಗೆ ಬೀರುತೆ\nಸಂಗೀತ ಕಲೆ ಮನದಲಿ ಸೇರಿದೆ",
+      "bhavartha": "Mysuru is celebrated for elegance, music, and cultural grace.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ಸಿರಿ",
+          "meaning": "Wealth, beauty, or prosperity",
+          "modernKannada": "ಸಂಪತ್ತು ಅಥವಾ ಸೌಂದರ್ಯ",
+          "example": "ನಾಡಿನ ಸಿರಿ ಜನರಲ್ಲಿ ಇದೆ."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "ಧೈರ್ಯದ ಘಂಟೆ",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ಧೈರ್ಯದ ಘಂಟೆ ಮನದಲಿ ಮೊಳಗಲಿ\nಸಂಕಟ ಬಂದರೂ ಹೆಜ್ಜೆ ನಿಲ್ಲದಿರಲಿ",
+      "bhavartha": "Courage is a bell within us that keeps us moving during difficulty.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ಸಂಕಟ",
+          "meaning": "Difficulty or trouble",
+          "modernKannada": "ಕಷ್ಟ",
+          "example": "ಸಂಕಟದಲ್ಲಿ ಧೈರ್ಯ ಬೇಕು."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "ಹೆಮ್ಮೆಯ ಹೂವು",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ಕನ್ನಡ ಹೆಮ್ಮೆ ಹೂವಾಗಿ ಅರಳಿ\nಪ್ರತಿ ಮನೆಯಲ್ಲಿ ಪರಿಮಳ ಹರಡಿ",
+      "bhavartha": "Pride in Kannada blooms like a flower and spreads fragrance in every home.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ಪರಿಮಳ",
+          "meaning": "Fragrance",
+          "modernKannada": "ಸುವಾಸನೆ",
+          "example": "ಹೂವಿನ ಪರಿಮಳ ಮಧುರ."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "ಪಾಠದ ಪದ",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ಪಾಠದ ಪದವು ಬದುಕಿಗೆ ಸೇತುವೆ\nಅರ್ಥದ ಬೆಳಕು ಮನಸಿಗೆ ದಾರಿಯೇ",
+      "bhavartha": "A lesson becomes useful when its meaning connects to life.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ಸೇತುವೆ",
+          "meaning": "Bridge",
+          "modernKannada": "ಕೊಂಡಿ",
+          "example": "ಭಾಷೆ ಜನರ ನಡುವೆ ಸೇತುವೆ."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "ಮೌನದ ಮಾತು",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ಮೌನದ ಮಾತು ಕವಿತೆಯಲಿ ಕೇಳಿತು\nಒಂಟಿ ಹೃದಯಕ್ಕೆ ಸಂಗಾತಿ ಸಿಕ್ಕಿತು",
+      "bhavartha": "Poetry can speak even through silence and comfort lonely hearts.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ಮೌನದ",
+          "meaning": "Of silence",
+          "modernKannada": "ಶಾಂತಿಯ",
+          "example": "ಮೌನದ ಅರ್ಥ ಕೆಲವೊಮ್ಮೆ ಗಾಢ."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "ಜನಪದ ಜ್ಯೋತಿ",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ಜನಪದ ಜ್ಯೋತಿ ಬೀದಿಯಲ್ಲಿ ಹೊಳೆಯಲಿ\nಹಾಡಿನ ರೀತಿ ಪೀಳಿಗೆಗೆ ಸಾಗಲಿ",
+      "bhavartha": "Folk tradition carries songs and wisdom from one generation to another.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ಜನಪದ",
+          "meaning": "Folk or people's tradition",
+          "modernKannada": "ಜನರ ಸಂಸ್ಕೃತಿ",
+          "example": "ಜನಪದ ಹಾಡುಗಳು ಸರಳವಾಗಿವೆ."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "ಅಕ್ಷರದ ಅಂಗಳ",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ಅಕ್ಷರದ ಅಂಗಳ ಮಕ್ಕಳಿಂದ ತುಂಬಲಿ\nಓದುವ ಆಸೆ ದಿನದಿಂದ ಬೆಳೆಲಿ",
+      "bhavartha": "The courtyard of letters becomes lively when children develop love for reading.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ಅಂಗಳ",
+          "meaning": "Courtyard or open space",
+          "modernKannada": "ಮನೆಯ ಮುಂಭಾಗದ ಜಾಗ",
+          "example": "ಅಂಗಳದಲ್ಲಿ ಮಕ್ಕಳು ಆಡಿದರು."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "ಸಂಸ್ಕೃತಿ ಸಾಗರ",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ಸಂಸ್ಕೃತಿ ಸಾಗರ ಆಳವಾಗಿ ಕರೆಯಲಿ\nಕಲಿಯುವ ಮನವು ತೀರವನ್ನು ಸೇರುವಲಿ",
+      "bhavartha": "Culture is like a deep ocean that invites learners to explore it.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ಸಾಗರ",
+          "meaning": "Ocean",
+          "modernKannada": "ಸಮುದ್ರ",
+          "example": "ಜ್ಞಾನ ಸಾಗರದಂತೆ ವಿಶಾಲ."
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "title": "ಕವಿಯ ಕಣ್ಣು",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ಕವಿಯ ಕಣ್ಣು ಜಗವನು ಬೇರೆಯಾಗಿ ನೋಡಿತು\nಸಣ್ಣ ಹನಿಯಲ್ಲೂ ಆಕಾಶ ಕಂಡಿತು",
+      "bhavartha": "A poet sees wonder even in small things like a drop of water.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ಹನಿಯಲ್ಲೂ",
+          "meaning": "Even in a drop",
+          "modernKannada": "ಒಂದು ನೀರಿನ ಹನಿಯಲ್ಲಿಯೂ",
+          "example": "ಹನಿಯಲ್ಲೂ ಪ್ರಕೃತಿಯ ಸೌಂದರ್ಯ ಇದೆ."
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "title": "ಬೆಳಗಿನ ಪದ್ಯ",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ಬೆಳಗಿನ ಪದ್ಯ ಕಿಟಕಿಯಲ್ಲಿ ಬಂತು\nಹೊಸ ದಿನದಲಿ ಆಶೆಯು ಹೂತು",
+      "bhavartha": "A morning poem brings hope for a new day.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ಆಶೆಯು",
+          "meaning": "Hope",
+          "modernKannada": "ನಂಬಿಕೆ",
+          "example": "ಆಶೆಯು ಬದುಕಿಗೆ ಶಕ್ತಿ ಕೊಡುತ್ತದೆ."
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "title": "ಹಳೆಯ ಪದ",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ಹಳೆಯ ಪದವು ಹೊಸ ಅರ್ಥ ಹೇಳಿತು\nಮರೆತ ನೆನಪು ಮತ್ತೆ ಜೀವಂತವಾಯಿತು",
+      "bhavartha": "Old words become alive again when their meaning is understood.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ಜೀವಂತವಾಯಿತು",
+          "meaning": "Became alive",
+          "modernKannada": "ಮತ್ತೆ ಬದುಕಿತು",
+          "example": "ಕಥೆಯಿಂದ ಇತಿಹಾಸ ಜೀವಂತವಾಯಿತು."
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "title": "ಪ್ರಶ್ನೆಯ ಹಕ್ಕು",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ಪ್ರಶ್ನೆಯ ಹಕ್ಕು ವಿದ್ಯಾರ್ಥಿಗೆ ಸಿಗಲಿ\nಉತ್ತರ ಹುಡುಕುವ ಜಿಜ್ಞಾಸೆ ಬೆಳೆಲಿ",
+      "bhavartha": "Students should ask questions and grow through curiosity.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ಜಿಜ್ಞಾಸೆ",
+          "meaning": "Curiosity or desire to know",
+          "modernKannada": "ತಿಳಿಯುವ ಆಸೆ",
+          "example": "ಜಿಜ್ಞಾಸೆ ಜ್ಞಾನಕ್ಕೆ ದಾರಿ."
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "title": "ಶಾಲೆಯ ಸಿರಿ",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ಶಾಲೆಯ ಸಿರಿ ಪುಸ್ತಕದಲಿ ಮಿನುಗಿತು\nಸ್ನೇಹದ ಧ್ವನಿ ತರಗತಿಯಲ್ಲಿ ಮೊಳಗಿತು",
+      "bhavartha": "School becomes beautiful through books, friendship, and shared learning.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ಧ್ವನಿ",
+          "meaning": "Sound or voice",
+          "modernKannada": "ಶಬ್ದ",
+          "example": "ಗಾಯಕರ ಧ್ವನಿ ಮಧುರ."
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "title": "ಮೌಲ್ಯದ ಮಳೆ",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ಮೌಲ್ಯದ ಮಳೆ ಮನದ ಮೇಲೆ ಸುರಿಯಲಿ\nಒಳ್ಳೆಯ ನಡೆ ಜೀವನದಲ್ಲಿ ಬೆಳೆಯಲಿ",
+      "bhavartha": "Good values nourish the mind and shape noble conduct.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ಮೌಲ್ಯದ",
+          "meaning": "Of value or principle",
+          "modernKannada": "ಒಳ್ಳೆಯ ಗುಣದ",
+          "example": "ಮೌಲ್ಯದ ಬದುಕು ಶ್ರೇಷ್ಠ."
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "title": "ಸಹನೆಯ ಹಾದಿ",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ಸಹನೆಯ ಹಾದಿ ಶಾಂತಿಯಾಗಿ ಸಾಗಲಿ\nಕೋಪದ ಮೋಡ ನಿಧಾನವಾಗಿ ಕರಗಲಿ",
+      "bhavartha": "Patience clears anger and brings peace to life.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ಸಹನೆಯ",
+          "meaning": "Of patience",
+          "modernKannada": "ತಾಳ್ಮೆಯ",
+          "example": "ಸಹನೆಯ ಮಾತು ಸಂಬಂಧ ಉಳಿಸುತ್ತದೆ."
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "title": "ಸ್ನೇಹದ ಸೇತು",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ಸ್ನೇಹದ ಸೇತು ಮನಗಳನ್ನು ಕೊಂಡಿತು\nಭೇದದ ಗೋಡೆ ನಿಧಾನವಾಗಿ ಕುಸಿದಿತು",
+      "bhavartha": "Friendship connects hearts and reduces differences.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ಭೇದದ",
+          "meaning": "Of difference or division",
+          "modernKannada": "ವಿಭಜನೆಯ",
+          "example": "ಭೇದದ ಮನಸ್ಸು ದೂರ ಮಾಡಬೇಕು."
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "title": "ಕಲೆಯ ಕಣಜ",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ಕಲೆಯ ಕಣಜ ನಾಡಿನಲಿ ತುಂಬಿದೆ\nಪ್ರತಿ ಹಬ್ಬದಲ್ಲಿ ರಾಗವು ಮೂಡಿದೆ",
+      "bhavartha": "Karnataka is full of artistic wealth expressed through festivals and music.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ಕಣಜ",
+          "meaning": "Granary or storehouse",
+          "modernKannada": "ಸಂಗ್ರಹ ಸ್ಥಳ",
+          "example": "ಕಾವ್ಯ ಕಣಜದಲ್ಲಿ ಅನೇಕ ಪದ್ಯಗಳಿವೆ."
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "title": "ಭಾವದ ಬಳ್ಳಿ",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ಭಾವದ ಬಳ್ಳಿ ಪದದ ಮೇಲೆ ಹತ್ತಿತು\nಕವಿತೆಯ ಹೂವು ಮನದಲಿ ಅರಳಿತು",
+      "bhavartha": "Emotion grows through words and becomes poetry in the heart.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ಬಳ್ಳಿ",
+          "meaning": "Creeper or climbing plant",
+          "modernKannada": "ಹತ್ತುವ ಗಿಡ",
+          "example": "ಬಳ್ಳಿ ಗೋಡೆಯ ಮೇಲೆ ಹತ್ತಿತು."
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "title": "ಪುಸ್ತಕದ ಸ್ನೇಹ",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ಪುಸ್ತಕ ಸ್ನೇಹಿ ಒಂಟಿತನ ಕಳೆಯಿತು\nಪುಟದೊಳಗೊಂದು ಹೊಸ ಲೋಕ ತೆರೆದಿತು",
+      "bhavartha": "Books become companions and open new worlds to readers.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ಪುಟದೊಳಗೊಂದು",
+          "meaning": "Within a page",
+          "modernKannada": "ಪುಟದ ಒಳಗೆ ಒಂದು",
+          "example": "ಪುಟದೊಳಗೊಂದು ಸುಂದರ ಚಿತ್ರವಿತ್ತು."
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "title": "ಸಮತೆಯ ಸೂರ್ಯ",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ಸಮತೆಯ ಸೂರ್ಯ ಎಲ್ಲರಿಗೂ ಉದಯಿಸಲಿ\nಮಾನವ ಗೌರವ ಮನೆಮನೆಗೆ ತಲುಪಲಿ",
+      "bhavartha": "Equality and human dignity should reach every home.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ಸಮತೆಯ",
+          "meaning": "Of equality",
+          "modernKannada": "ಸಮಾನತೆಯ",
+          "example": "ಸಮತೆಯ ಸಮಾಜ ಬೇಕು."
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "title": "ಭೂಮಿಯ ಭಕ್ತಿ",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ಭೂಮಿಯ ಭಕ್ತಿ ಬೀಜದಲಿ ಕಾಣಲಿ\nರೈತನ ಕೈಯಲ್ಲಿ ಜೀವವು ಅರಳಿ",
+      "bhavartha": "Respect for the earth is seen in farming and the life it supports.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ರೈತನ",
+          "meaning": "Of the farmer",
+          "modernKannada": "ಕೃಷಿಕನ",
+          "example": "ರೈತನ ಪರಿಶ್ರಮ ಅಮೂಲ್ಯ."
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "title": "ಸಮುದ್ರದ ಕರೆ",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ಕರಾವಳಿ ಗಾಳಿ ಉಪ್ಪಿನ ಗೀತ ಹಾಡಿತು\nಸಮುದ್ರ ಮನಕೆ ವಿಶಾಲತೆ ಕಲಿಸಿತು",
+      "bhavartha": "The coast and sea teach openness and depth.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ಕರಾವಳಿ",
+          "meaning": "Coastal region",
+          "modernKannada": "ಸಮುದ್ರ ತೀರ ಪ್ರದೇಶ",
+          "example": "ಕರಾವಳಿ ಕರ್ನಾಟಕ ಸುಂದರ."
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "title": "ಬಯಲಿನ ಬಾನು",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ಬಯಲಿನ ಬಾನು ನೀಲಿಯಾಗಿ ಹರಡಿತು\nಗಾಳಿಯ ಹಾಡು ಸ್ವಾತಂತ್ರ್ಯ ಕಲಿಸಿತು",
+      "bhavartha": "The open sky and wind symbolize freedom.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ಬಾನು",
+          "meaning": "Sky",
+          "modernKannada": "ಆಕಾಶ",
+          "example": "ಬಾನು ನೀಲಿಯಾಗಿ ಕಾಣುತ್ತದೆ."
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "title": "ಹಬ್ಬದ ಹೃದಯ",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ಹಬ್ಬದ ಹೃದಯ ಹಾಡಿನಿಂದ ತುಂಬಿತು\nಒಗ್ಗಟ್ಟಿನ ದೀಪ ಮನೆಮನೆ ಹೊತ್ತಿತು",
+      "bhavartha": "Festivals light up homes with songs and unity.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ಒಗ್ಗಟ್ಟಿನ",
+          "meaning": "Of unity",
+          "modernKannada": "ಏಕತೆಯ",
+          "example": "ಒಗ್ಗಟ್ಟಿನ ಶಕ್ತಿ ದೊಡ್ಡದು."
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "title": "ಚಿಂತನೆಯ ಚಿಗುರು",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ಚಿಂತನೆಯ ಚಿಗುರು ಮನದಲಿ ಮೂಡಲಿ\nಹೊಸ ಪ್ರಶ್ನೆಗಳು ಜ್ಞಾನವಾಗಿ ಬೆಳೆಲಿ",
+      "bhavartha": "Thinking begins as a small sprout and grows into knowledge through questions.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ಚಿಗುರು",
+          "meaning": "Sprout or new growth",
+          "modernKannada": "ಹೊಸ ಮೊಳೆ",
+          "example": "ಮರದಲ್ಲಿ ಚಿಗುರು ಮೂಡಿತು."
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "title": "ವಿದ್ಯೆಯ ವೀಣೆ",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ವಿದ್ಯೆಯ ವೀಣೆ ಮಧುರವಾಗಿ ನುಡಿಯಲಿ\nಕಲಿಕೆಯ ರಾಗ ಬದುಕಿಗೆ ಸೇರಲಿ",
+      "bhavartha": "Education is compared to a veena whose music enriches life.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ವೀಣೆ",
+          "meaning": "A classical string instrument",
+          "modernKannada": "ತಂತಿ ವಾದ್ಯ",
+          "example": "ವೀಣೆ ನಾದ ಮನೋಹರ."
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "title": "ಕಾಲದ ಕಾವ್ಯ",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ಕಾಲದ ಕಾವ್ಯ ಪುಟಗಳಲ್ಲಿ ಉಳಿಯಿತು\nಜನರ ಬದುಕು ಪದಗಳಲ್ಲಿ ಮೂಡಿತು",
+      "bhavartha": "Literature preserves the life of people across time.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ಕಾಲದ",
+          "meaning": "Of time",
+          "modernKannada": "ಸಮಯದ",
+          "example": "ಕಾಲದ ಬದಲಾವಣೆ ಸಹಜ."
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "title": "ದಾನದ ಧಾರೆ",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ದಾನದ ಧಾರೆ ಮನದಿಂದ ಹರಿಯಲಿ\nಕರುಣೆಯ ನೆಲದಲ್ಲಿ ಸಂತೋಷ ಬೆಳೆಲಿ",
+      "bhavartha": "Generosity and compassion bring happiness to society.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ಕರುಣೆಯ",
+          "meaning": "Of compassion",
+          "modernKannada": "ದಯೆಯ",
+          "example": "ಕರುಣೆಯ ಮನಸ್ಸು ಎಲ್ಲರಿಗೂ ಬೇಕು."
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "title": "ಬಸವ ಬೆಳಕು",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ಬಸವ ಬೆಳಕು ಸಮತೆಯನ್ನು ಹೇಳಿತು\nಕಾಯಕ ಧರ್ಮ ಬದುಕಿನಲ್ಲಿ ಬೆರೆತಿತು",
+      "bhavartha": "The ideals of equality and work are remembered through Basavanna's spirit.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ಧರ್ಮ",
+          "meaning": "Righteous duty or moral way",
+          "modernKannada": "ಸರಿ ನಡೆ",
+          "example": "ಸತ್ಯ ಧರ್ಮ ಜೀವನಕ್ಕೆ ದಾರಿ."
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "title": "ಅಕ್ಕನ ಆತ್ಮ",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ಅಕ್ಕನ ಆತ್ಮ ಸ್ವಾತಂತ್ರ್ಯ ಹಾಡಿತು\nಭಕ್ತಿಯ ಭಾಷೆ ಗಡಿಯನ್ನು ದಾಟಿತು",
+      "bhavartha": "The poem honors fearless spiritual expression and inner freedom.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ಸ್ವಾತಂತ್ರ್ಯ",
+          "meaning": "Freedom",
+          "modernKannada": "ಸ್ವತಂತ್ರತೆ",
+          "example": "ಸ್ವಾತಂತ್ರ್ಯ ಜವಾಬ್ದಾರಿಯ ಜೊತೆ ಇರಬೇಕು."
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "title": "ಕನಕನ ಕಣ್ಣು",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ಕನಕನ ಕಣ್ಣು ಭಕ್ತಿಯಲ್ಲಿ ತೆರೆದಿತು\nಹೃದಯದ ದೇವರು ಜನರಲ್ಲಿ ಕಂಡಿತು",
+      "bhavartha": "Devotion finds divinity in people and in the heart.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ಭಕ್ತಿಯಲ್ಲಿ",
+          "meaning": "In devotion",
+          "modernKannada": "ಪ್ರೀತಿಯ ಪೂಜೆಯಲ್ಲಿ",
+          "example": "ಭಕ್ತಿಯಲ್ಲಿ ಶಾಂತಿ ದೊರೆಯುತ್ತದೆ."
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "title": "ಪುರಂದರ ನಾದ",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ಪುರಂದರ ನಾದ ಮನದಲಿ ಹರಿಯಿತು\nಸಂಗೀತದಿಂದ ಜ್ಞಾನವು ಮೂಡಿತು",
+      "bhavartha": "Music becomes a path to wisdom and devotion.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ನಾದ",
+          "meaning": "Musical sound",
+          "modernKannada": "ಸಂಗೀತದ ಧ್ವನಿ",
+          "example": "ವೀಣೆಯ ನಾದ ಮಧುರ."
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "title": "ಕುವೆಂಪು ಕನಸು",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ವಿಶ್ವಮಾನವ ಕನಸು ಮನದಲ್ಲಿ ಅರಳಲಿ\nಸಹಬಾಳ್ವೆಯ ದಾರಿ ಜಗದಲಿ ಹರಡಲಿ",
+      "bhavartha": "The poem celebrates the ideal of universal humanism and harmonious living.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ವಿಶ್ವಮಾನವ",
+          "meaning": "Universal human being",
+          "modernKannada": "ಜಗತ್ತಿನ ಎಲ್ಲರನ್ನೂ ತನ್ನವರಂತೆ ನೋಡುವವನು",
+          "example": "ವಿಶ್ವಮಾನವ ಚಿಂತನೆ ಮಾನವತೆಯನ್ನು ಬೆಳೆಸುತ್ತದೆ."
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "title": "ಬೆಂದ್ರೆಯ ಭಾವ",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ಭಾವದ ಹಕ್ಕಿ ಆಕಾಶಕ್ಕೆ ಹಾರಿತು\nಪದದ ಗೂಡಿಗೆ ಮಧುರತೆ ತಂದಿತು",
+      "bhavartha": "Emotion takes flight and returns as sweetness in poetry.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ಮಧುರತೆ",
+          "meaning": "Sweetness",
+          "modernKannada": "ಸಿಹಿತನ",
+          "example": "ಅವರ ಕವಿತೆಯಲ್ಲಿ ಮಧುರತೆ ಇದೆ."
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "title": "ಹೊಸ ಪೀಳಿಗೆ",
+      "poet": "Kavya-Kanaja Original",
+      "text": "ಹೊಸ ಪೀಳಿಗೆ ಹಳೆಯ ಬೇರು ಹಿಡಿಯಲಿ\nಕನ್ನಡ ಮರವು ನಾಳೆಯಲಿ ಬೆಳೆಯಲಿ",
+      "bhavartha": "The new generation should hold old roots so Kannada can grow into the future.",
+      "audioFile": "",
+      "difficultWords": [
+        {
+          "word": "ಪೀಳಿಗೆ",
+          "meaning": "Generation",
+          "modernKannada": "ತಲೆಮಾರು",
+          "example": "ಹೊಸ ಪೀಳಿಗೆ ಸಾಹಿತ್ಯ ಕಲಿಯಬೇಕು."
+        }
+      ]
+    }
+  ],
+  "poets": [
+    {
+      "name": "Kuvempu",
+      "years": "1904-1994",
+      "bio": "Kuvempu was a major Kannada poet, novelist, playwright, and thinker who gave Kannada literature a modern humanist voice.",
+      "works": ["Sri Ramayana Darshanam", "Malegalalli Madumagalu", "Kanooru Heggadithi"],
+      "award": "Jnanpith Awardee"
+    },
+    {
+      "name": "D. R. Bendre",
+      "years": "1896-1981",
+      "bio": "Bendre is known for lyrical richness, folk rhythm, philosophical depth, and emotional power in modern Kannada poetry.",
+      "works": ["Naaku Tanti", "Gari", "Sakhigeeta"],
+      "award": "Jnanpith Awardee"
+    },
+    {
+      "name": "Shivaram Karanth",
+      "years": "1902-1997",
+      "bio": "A novelist, dramatist, environmental thinker, and cultural scholar whose work expanded the range of Kannada writing.",
+      "works": ["Mookajjiya Kanasugalu", "Chomana Dudi", "Marali Mannige"],
+      "award": "Jnanpith Awardee"
+    },
+    {
+      "name": "Masti Venkatesha Iyengar",
+      "years": "1891-1986",
+      "bio": "Masti was a respected storyteller and novelist remembered for graceful prose and deep insight into everyday life.",
+      "works": ["Chikkaveera Rajendra", "Subbanna", "Kelavu Sanna Kategalu"],
+      "award": "Jnanpith Awardee"
+    },
+    {
+      "name": "V. K. Gokak",
+      "years": "1909-1992",
+      "bio": "Gokak was a poet, critic, scholar, and educationist who contributed strongly to modern Kannada literary thought.",
+      "works": ["Bharatha Sindhu Rashmi", "Dyava Prithvi", "Samudra Geethegalu"],
+      "award": "Jnanpith Awardee"
+    },
+    {
+      "name": "U. R. Ananthamurthy",
+      "years": "1932-2014",
+      "bio": "Ananthamurthy was a novelist and critic associated with the Navya movement, known for exploring society, tradition, and change.",
+      "works": ["Samskara", "Bharathipura", "Avasthe"],
+      "award": "Jnanpith Awardee"
+    },
+    {
+      "name": "Girish Karnad",
+      "years": "1938-2019",
+      "bio": "Karnad was a playwright, actor, and thinker who reimagined mythology, history, and identity through modern drama.",
+      "works": ["Tughlaq", "Hayavadana", "Nagamandala"],
+      "award": "Jnanpith Awardee"
+    },
+    {
+      "name": "Chandrashekhara Kambara",
+      "years": "1937-",
+      "bio": "Kambara is a poet, playwright, novelist, and folklorist whose writing draws deeply from folk imagination and rural culture.",
+      "works": ["Jokumaraswamy", "Siri Sampige", "Shikhar Soorya"],
+      "award": "Jnanpith Awardee"
+    }
+  ]
+}

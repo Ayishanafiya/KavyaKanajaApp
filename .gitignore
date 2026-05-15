@@ -1,0 +1,28 @@
+# Gradle and Android build output
+.gradle/
+.kotlin/
+build/
+app/build/
+
+# Android Studio local files
+.idea/
+*.iml
+local.properties
+
+# Generated APKs and reports
+*.apk
+*.aab
+artifact-build-manifest.json
+
+# Java/Kotlin crash dumps and logs
+*.hprof
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local runtime caches
+captures/
+externalNativeBuild/
+.cxx/
